@@ -26,7 +26,7 @@
 # 📖 Math Magicians <a name="about-project"></a>
 
 > "Math magicians" is a website for all fans of mathematics. 
-- It is a Single Page App (SPA) that allows users to:
+ It is a Single Page App (SPA) that allows users to:
 - Make simple calculations.
 - Read a random math-related quote.
 
@@ -37,8 +37,6 @@
 - React
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -53,8 +51,6 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **Calculator**
 - **User Interface**
