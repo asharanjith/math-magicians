@@ -119,7 +119,7 @@ Example command:
 
 ### Deployment
 
-Incoming ...
+> Incoming ...
 
 ## 👤 Author <a name="authors"></a>
 
@@ -157,7 +157,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+
 
 If you like this project...
 
@@ -167,7 +167,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank the Microverse team for their great support!
+ I would like to thank the Microverse team for their great support!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
