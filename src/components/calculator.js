@@ -15,7 +15,7 @@ class Calculator extends React.Component {
           <button type="button" className="calculator-keypad__key">AC</button>
           <button type="button" className="calculator-keypad__key">+/-</button>
           <button type="button" className="calculator-keypad__key">%</button>
-          <button type="button" className="calculator-keypad__key operator">/</button>
+          <button type="button" className="calculator-keypad__key operator">÷</button>
           <button type="button" className="calculator-keypad__key">7</button>
           <button type="button" className="calculator-keypad__key">8</button>
           <button type="button" className="calculator-keypad__key">9</button>
