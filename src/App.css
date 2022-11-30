@@ -3,11 +3,14 @@
 }
 
 .calculator-display {
+  position: fixed;
+  top: 20%;
+  left: 20%;
   background-color: #000;
   color: #fff;
   font-size: 2rem;
   padding: 1rem;
-  width: 50%;
+  width: 40%;
 }
 
 .calculator-display__result {
@@ -26,19 +29,6 @@
 }
 
 .calculator-keypad__key {
-  background-color: #000;
-  border: 1px solid #fff;
-  color: #fff;
-  font-size: 1.5rem;
-  padding: 1rem;
-  text-align: center;
-}
-
-.calculator-keypad__key--operator {
-  background-color: #ba1e55;
-}
-
-.calculator-keypad__value {
   background-color: #000;
   border: 1px solid #fff;
   color: #fff;
