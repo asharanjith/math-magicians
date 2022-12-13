@@ -2,11 +2,9 @@ import React from 'react';
 
 const Quotes = () => (
   <div>
-    <h1>Math Magicians</h1>
-    <p>
-      Lists of mathematics topics cover a variety of topics related to
-      mathematics.
-      {' '}
+    <p className="Quotes">
+      Mathematics is not about numbers, equations ,computations, or algorithms
+      ,it is about understanding - William Paul Thurstin.
     </p>
   </div>
 );
