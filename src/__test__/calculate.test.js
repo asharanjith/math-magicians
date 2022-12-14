@@ -11,7 +11,7 @@ describe('calculate', () => {
     const buttonName = '+/-';
     expect(calculate(state, buttonName)).toEqual({ total: '-9', operation: null, next: null });
   });
-  test('case 1:if total and operation are null', () => {
+  test('if total and operation are null', () => {
     const state = {
       total: null,
       next: '0',
