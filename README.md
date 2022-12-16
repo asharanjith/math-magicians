@@ -63,8 +63,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> [Click Here](https://asharanjith.github.io/math-magicians/)
-< [using Render](https://math-magicians-g876.onrender.com)
+- [Click Here](https://asharanjith.github.io/math-magicians/)
+- [using Render](https://math-magicians-g876.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
